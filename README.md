@@ -12,7 +12,7 @@ While AIG's focus is to populate Microsoft Flight Simulator with real world traf
 throughout the world, this flightplan does not reflect real world operations. We are
 in no way affiliated with AIG.<br>
 <br>
-The first release already contains over 50 repaints for over 20 different aircraft models and their variants. Flightplan and repaint repository will be updated regularly, so make sure to check back in from time to time.
+The first release already contains over 50 repaints for over 20 different aircraft models and their variants. Flightplan and repaint repository will be updated regularly, so make sure to check back in from time to time.<br>
 <br>
 <br>
 <b>INSTALLATION INSTRUCTIONS:</b><br>
