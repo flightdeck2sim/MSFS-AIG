@@ -6,7 +6,7 @@ our repaints work for model matching purposes, we have put up a flightplan that
 uses two larger Central African airports (FZAA and HRYR), creating one return
 flight (= 2 legs) for each aircraft once a week - starting on Monday 00z00. If you
 are regular user of AIG's TrafficController, please understand that you will encounter
-Alpaca Airlines planes at these airports at the set times.<br>
+Alpaca Airways planes at these airports at the set times.<br>
 <br>
 While AIG's focus is to populate Microsoft Flight Simulator with real world traffic
 throughout the world, this flightplan does not reflect real world operations. We are
