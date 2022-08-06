@@ -1,5 +1,5 @@
 # Alpaca Airways (VCP) Model Matching for MSFS
-<b>VATSIM / IVAO Model matching solution using the AIG AI Manager OCI for MSFS (and P3D)</b><br>
+<b>VATSIM / IVAO model matching solution using the AIG AI Manager OCI for MSFS (and P3D)</b><br>
 <br>
 In order to make the Alpha India Group's AI Manager (AIGAIM) integration of
 our repaints work for model matching purposes, we have put up a flightplan that
