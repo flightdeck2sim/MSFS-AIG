@@ -17,7 +17,7 @@ The first release already contains over 50 repaints for over 20 different aircra
 <br>
 <b>INSTALLATION INSTRUCTIONS:</b><br>
 <br>
-Get the latest release of our Alpaca Airways flightplan for AIGAIM <a href="https://github.com/flightdeck2sim/MSFS-AIG/releases" target="_blank">here</a><br>
+Get the latest release of our Alpaca Airways Flightplan for AIGAIM <a href="https://github.com/flightdeck2sim/MSFS-AIG/releases" target="_blank">here</a><br>
 <br>
 Copy the "<b>VCPAI_AlpacaAirways_2022_v*.zip</b>" to your harddrive. Open the AIGTech -
 AI Manager and click the "Install (local ZIP)" tab. Direct to and choose the downloaded
