@@ -19,13 +19,13 @@ The first release already contains over 50 repaints for over 20 different aircra
 <br>
 Get the latest release of our Alpaca Airways Flightplan for AIGAIM <a href="https://github.com/flightdeck2sim/MSFS-AIG/releases" target="_blank">here</a><br>
 <br>
-Copy the "<b>VCPAI_AlpacaAirways_2022_v*.zip</b>" to your harddrive. Open the AIGTech -
+Copy the <b>VCPAI_AlpacaAirways_2022_v***.zip</b> to your harddrive. Open the AIGTech -
 AI Manager and click the "Install (local ZIP)" tab. Direct to and choose the downloaded
 FP. In the next window click "Install using OCI". The repaints and eventually missing
 models will download and install automatically.<br>
 <br>
 After the whole process has finished, update your VMR with ModelMatchingMagic, or...<br>
 <br>
-Install the provided "<b>ALPACA.vmr</b>" model matching rule set for vPilot, including all aircraft from the present
+Install the provided <b>ALPACA.vmr</b> model matching rule set for vPilot, including all aircraft from the present
 release. Simply paste this to where your VMRs are stored and register it in vPilot under
 "Model Matching (MSFS)/Custom Rules".
